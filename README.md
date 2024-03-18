@@ -1,2 +1,2 @@
 # NLP
-Has natural language model
+natural language processing ML models
